@@ -10,7 +10,7 @@
 
 ## Advanced Task (40%)
 
-Select tasks from the below advanced task list to gain this additional 40%. 
+Select tasks from the below advanced task list to gain this 40% of the grade. 
 
 1. **Implement different levels of difficulty:** Add multiple levels of difficulty with varying speeds and/or different starting configurations of blocks on the board. (10%)
 
@@ -31,7 +31,7 @@ Select tasks from the below advanced task list to gain this additional 40%.
    - level 1: Pause and resume in current play (10%)
    - level 2: Allow player exit the game and resume the play since last exit (20%) 
 
-8. **Add a preview of the next piece:** Show a preview of the next piece that will be dropping down on the board, giving the player more time to strategize. (20%)
+8. **Add a preview of the next piece:** Show a preview of the next piece that will be dropping down on the board, giving the player more time to strategize. (10%)
 
 9. **Create different game modes:** Develop different game modes, such as a timed mode or a survival mode where the player has a limited number of moves to clear as many lines as possible. (20%)
 
